@@ -1,2 +1,2 @@
 # DesignPatterns
-Design Patterns by book HeadAFirst and GOF
+Design Patterns by book Head First and GoF implementation by Java
